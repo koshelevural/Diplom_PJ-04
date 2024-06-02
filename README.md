@@ -2,7 +2,7 @@
 Заливка дипломного проекта Skillfactory 
 
 #### :briefcase: Дипломный проект на тему «Модель прогнозирования стоимости жилья для агентства недвижимости»
-<img src=["http://blog.idashboard.com.au/wp-content/uploads/sites/147/2022/10/a-guide-to-creating-successful-real-estate-ads-scaled-2038x1141.jpg" width=50% height=50%>
+<img src=["http://blog.idashboard.com.au/wp-content/uploads/sites/147/2022/10/a-guide-to-creating-successful-real-estate-ads-scaled-2038x1141.jpg"] width=50% height=50%>
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
